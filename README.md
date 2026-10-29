@@ -1,2 +1,0 @@
-Gotcha!!
-https://jagdishjagdale.me/
