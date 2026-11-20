@@ -7,9 +7,8 @@ I build responsive, scalable web applications, from database design to deploymen
 
 I'm an MCA graduate from DYP-ATU, Talsande, with 11 months of hands-on internship experience working on live client projects. I enjoy turning ideas into practical solutions through clean code, problem-solving, and continuous learning.
  
-[🌐 Portfolio](https://jagdishjagdale.me) · [💼 LinkedIn](https://linkedin.com/in/jagdish-jagdale) · [📧 Email](mailto:jagdishjagdale09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jagdishjagdale.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagdish-jagdale) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagdishjagdale09@gmail.com)
 
----
 
 ## 💻 Tech Stack & Tools
 
