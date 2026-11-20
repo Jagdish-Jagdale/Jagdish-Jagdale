@@ -6,7 +6,10 @@
 I build responsive, scalable web applications, from database design to deployment.
 
 I'm an MCA graduate from DYP-ATU, Talsande, with 11 months of hands-on internship experience working on live client projects. I enjoy turning ideas into practical solutions through clean code, problem-solving, and continuous learning.
-🌐 Portfolio (https://jagdishjagdale.me) · 💼 [LinkedIn](https://linkedin.com/in/jagdish-jagdale) · 📧 [Email](mailto:jagdishjagdale09@gmail.com)
+
+🌐 **Portfolio:** [jagdishjagdale.me](https://jagdishjagdale.me)  
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/jagdish-jagdale)  
+📧 **Email:** [jagdishjagdale09@gmail.com](mailto:jagdishjagdale09@gmail.com)
 
 ---
 
@@ -34,6 +37,10 @@ I'm an MCA graduate from DYP-ATU, Talsande, with 11 months of hands-on internshi
 
 ### API Integration & Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+- REST API Development & Integration
+- WhatsApp Business API Integration
+- JWT Authentication
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,6 +80,8 @@ Here are some of the projects I've worked on:
 | **E-commerce Application** | E-commerce platform with product and order management | Add actual project technologies |
 
 **Explore more:** [My GitHub Repositories](https://github.com/Jagdish-Jagdale)
+
+> Replace the descriptions and technologies above with the actual project details. Add live demo and repository links for each project when available.
 
 ---
 
